@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-> * [ShareBnB - Typescript Frontend](https://github.com/mgregerson/sharebnb-react)
-> * [ShareBnB - Flask Backend](https://github.com/mgregerson/sharebnb-flask)
+> * [Codenames - Typescript Frontend](https://github.com/mgregerson/codenames-react)
+> * [Codenames - Express Backend](https://github.com/mgregerson/codenames-express)
 
 ## 🧑🏻‍💻 Technologies I frequently use: 
 
